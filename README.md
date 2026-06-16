@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Complaint System
 
 ### Version
@@ -30,3 +31,6 @@ $ npm start
 ![Screenshot (4)](https://user-images.githubusercontent.com/34777376/56276133-9993ee00-611f-11e9-8922-ecb7ffe6af87.png)
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/34777376/56276144-9ef13880-611f-11e9-92e5-1a1a26b82967.png)
+=======
+# Complaint-Mgmt-System
+>>>>>>> eab78ff6f87ad721fc34817591726ca93c8944f3
